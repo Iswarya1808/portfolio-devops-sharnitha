@@ -32,21 +32,6 @@ I'm a **Senior DevOps Engineer** passionate about crafting scalable cloud archit
 I’m always up for insightful conversations, collaborations, or just sharing ideas around tech and culture.
 
 [![LinkedIn](www.linkedin.com/in/sharnitha-vijayakumar-b124701a7Vanity U)
-[![Gmail](https://img.shields.io/badge/Email-sharnitha%40example.com-red?logo=gmail)](mailto:sharnitha@example.com)
+[![Gmail](https://img.shields.io/badge/Email-sharnitha%40example.com-red?logo=gmail)](mailto:iswaryadevopsen@gmail.com)
 
 ---
-
-## 🖼️ Image & Style Suggestions
-
-To elevate your profile visually:
-
-| Section        | Suggestion                                                               |
-|----------------|--------------------------------------------------------------------------|
-| Header Banner  | A subtle DevOps-themed banner: cloud + containers + monitoring visuals   |
-| Profile Picture| A professional or symbolic image (e.g. abstract tech, personal emblem)   |
-| Accent Icons   | Use emojis (🚀, ⚙️, 📈) to guide flow and add personality                |
-| Cultural Edge  | Consider a thumbnail of Baby Murugan with peacock as a custom touch      |
-
-You could also use GitHub Profile README generators like [profileme.dev](https://profileme.dev) for more layouts and badge integrations.
-
-Would you like me to generate a themed banner or cultural image to match your interests next?
