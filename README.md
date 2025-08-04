@@ -31,7 +31,7 @@ I'm a **Senior DevOps Engineer** passionate about crafting scalable cloud archit
 ## 📫 Let’s Connect
 I’m always up for insightful conversations, collaborations, or just sharing ideas around tech and culture.
 
-[![LinkedIn](www.linkedin.com/in/sharnitha-vijayakumar-b124701a7Vanity U)
+[![LinkedIn](https://www.linkedin.com/in/sharnitha-vijayakumar-b124701a7/)]
 [![Gmail](https://img.shields.io/badge/Email-sharnitha%40example.com-red?logo=gmail)](mailto:iswaryadevopsen@gmail.com)
 
 ---
